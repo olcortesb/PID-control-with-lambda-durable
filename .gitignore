@@ -35,3 +35,16 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+.build
+COLD_START_DEMO.md
+COLD_START_DEMO.md
+deploy-terraform.sh
+FLOWCHART_MERMAID.md
+LAMBDA_DURABLE.md
+PID.pdf
+STEP_BY_STEP.md
+EVENT_MANAGEMENT.md
+FLOWCHART.md
+
+simulation/generate_responses.sh
+simulation/run_simulation.sh
